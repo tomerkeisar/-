@@ -14,7 +14,7 @@ import { OneCountryModel } from '../countries-data/one-country.model';
     `
       div {
         width: 300px;
-        height: 200px;
+        height: 250px;
         margin: 5px;
         padding: 5px;
         display: inline-block;
